@@ -1,2 +1,2 @@
 sdd
-[a](stupidcat.us.kg)
+[a](http://stupidcat.us.kg/)
